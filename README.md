@@ -4,8 +4,6 @@
 💻 I'm an aspiring Software Engineer with a passion for coding, cloud computing, and AI. I turn ideas into impactful software. And I share my journey here<br/> 
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
 
-[![Temurbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tktony&show_icons=true)](https://github.com/tktony/github-readme-stats)
-
 # 💫 About Me:
 🔭 I’m currently working on varios Projectts<br>👯 I’m looking to collaborate on OS development <br>🤝 I’m looking for help with DSA, NLP<br>🌱 I’m currently learning DevOps, Linux, SaaS ,CI/CD<br><br>
 
