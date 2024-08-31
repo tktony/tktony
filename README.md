@@ -1,5 +1,5 @@
 
-### Hi, I'm Temurbek!
+# Hi, I'm Temurbek!
 
 💻 I'm an aspiring Software Engineer with a passion for coding, cloud computing, and AI. I turn ideas into impactful software. And I share my journey here<br/> 
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
@@ -8,7 +8,7 @@
 🔭 I’m currently working on varios Projectts<br>👯 I’m looking to collaborate on OS development <br>🤝 I’m looking for help with DSA, NLP<br>🌱 I’m currently learning DevOps, Linux, SaaS ,CI/CD<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/temurbek-kadamov/) 
 
 # 💻 Tech Stack:
