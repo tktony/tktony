@@ -1,11 +1,13 @@
 
 # Hi, I'm Temurbek!
 
-💻 I am a slightly opinionated Software Engineer and I turn ideas into problem-solving software <br/> 
+💻 I am a slightly opinionated Software Engineer, turning ideas into problem-solving software <br/> 
 👉🏻I specilize in building backend solutions <br/>
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
 
 # 💫 About Me:
+I'm currently on the look out for a role in backend development, ideally writing Go or Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat! <br/>
+<br/>
 👯 I’m looking to collaborate on anything related to drone software <br>🤝 I’m looking for help with NLP<br>🌱 I’m currently learning DevOps, Go ,CI/CD<br><br>
 
 
