@@ -1,7 +1,7 @@
 
 # Hi, I'm Temurbek!
 
-💻 I am a Software Engineer and I turn ideas into problem-solving software <br/> 
+💻 I am a slightly opinionated Software Engineer and I turn ideas into problem-solving software <br/> 
 👉🏻I specilize in building backend solutions <br/>
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
 
