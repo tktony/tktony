@@ -1,7 +1,8 @@
 
 # Hi, I'm Temurbek!
 
-💻 I'm a Software Engineer with a passion for programming, cloud computing, and AI. I turn ideas into impactful software. And I share my journey here<br/> 
+💻 I'm a Software Engineer with passion for programming, cloud computing, and AI. I turn ideas into impactful software <br/> 
+👉🏻I specilize in building backend solutions <br/>
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
 
 # 💫 About Me:
