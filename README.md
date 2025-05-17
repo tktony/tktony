@@ -1,12 +1,12 @@
 
 # Hi, I'm Temurbek!
 
-💻 I am a Software Engineer and I turn ideas into problem-solving softare <br/> 
+💻 I am a Software Engineer and I turn ideas into problem-solving software <br/> 
 👉🏻I specilize in building backend solutions <br/>
 🔗 Connect with me through [My LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/) and [My Website](https://temurbekkadamov.netlify.app/)<br/>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on OS development <br>🤝 I’m looking for help with DSA, NLP<br>🌱 I’m currently learning DevOps, Linux, SaaS ,CI/CD<br><br>
+👯 I’m looking to collaborate on anything related to drone software <br>🤝 I’m looking for help with NLP<br>🌱 I’m currently learning DevOps, Go ,CI/CD<br><br>
 
 
 # 🌐 Socials:
