@@ -8,7 +8,7 @@
 # 💫 About Me:
 I'm currently on the look out for a role in backend development, ideally writing Go or Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat! <br/>
 <br/>
-👯 I’m looking to collaborate on anything related to drone software <br>🤝 I’m looking for help with NLP<br>🌱 I’m currently learning DevOps, Go ,CI/CD<br><br>
+🤝 I’m looking for help with NLP<br>🌱 I’m currently learning DevOps, Go ,CI/CD<br><br>
 
 
 # 🌐 Socials:
