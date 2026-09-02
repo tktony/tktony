@@ -1,5 +1,5 @@
 # Hi, I'm Temurbek
-Software Engineer specializing in backend development, building reliable APIs, scalable services, and cloud-based applications using Python and Go.
+Software Engineer specializing in backend development, building reliable APIs, scalable services, and cloud-based applications using Python.
 
 I enjoy designing clean architectures, improving system performance, and turning complex requirements into maintainable software.
 
@@ -17,7 +17,6 @@ Connect with me through [LinkedIn](https://www.linkedin.com/in/temurbek-kadamov/
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 **Backend & Frameworks**  
